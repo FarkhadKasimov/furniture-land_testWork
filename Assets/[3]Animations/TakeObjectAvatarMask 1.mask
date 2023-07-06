@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TakeObjectAvatarMask 1
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cartoonish.022
+    m_Weight: 1
+  - m_Path: metarig.029
+    m_Weight: 1
+  - m_Path: metarig.029/spine
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/spine.004
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/spine.004/spine.006
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.L/forearm.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.L/forearm.L/hand.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.L/forearm.L/hand.L/hand.L.002
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.L/forearm.L/hand.L/hand.L.005
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.L/forearm.L/hand.L/hand.L.005/hand.L.009
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.R
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.R/forearm.R/hand.R
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.R/forearm.R/hand.R/hand.R.002
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.R/forearm.R/hand.R/hand.R.005
+    m_Weight: 1
+  - m_Path: metarig.029/spine/spine.001/spine.002/upper_arm.R/forearm.R/hand.R/hand.R.005/hand.R.009
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.L/shin.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.L/shin.L/foot.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.L/shin.L/foot.L/toe.L
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.R
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.R/shin.R
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.R/shin.R/foot.R
+    m_Weight: 1
+  - m_Path: metarig.029/spine/thigh.R/shin.R/foot.R/toe.R
+    m_Weight: 1

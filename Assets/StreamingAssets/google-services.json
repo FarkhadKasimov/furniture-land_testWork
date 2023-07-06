@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589822929636",
+    "project_id": "furniture-factory-89678",
+    "storage_bucket": "furniture-factory-89678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589822929636:android:5aab8d818b488399151af1",
+        "android_client_info": {
+          "package_name": "com.wab.ffactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589822929636-s9c3u86i346criciu0bsoe2t289tvd1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0mVeidq5ft61R1A43-Y19sNtip2YHR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589822929636-s9c3u86i346criciu0bsoe2t289tvd1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

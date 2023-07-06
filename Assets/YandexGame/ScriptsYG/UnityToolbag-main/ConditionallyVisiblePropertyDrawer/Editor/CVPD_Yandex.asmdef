@@ -1,0 +1,18 @@
+{
+    "name": "CVPD_Yandex",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7fe084b963a3a45889a92a24faad16f7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
